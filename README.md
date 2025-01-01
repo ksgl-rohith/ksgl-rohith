@@ -1,4 +1,4 @@
-[![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)]
+![MasterHead](https://www.pramukhdigital.com/wp-content/uploads/2018/07/New-PNC-Animated-Banners.gif)
 <h1 align="center">Hi 👋, I'm K Sai Gana Laxmi Rohith</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
 <img align="right" alt="Coding" width="400" src="https://i.pinimg.com/originals/ef/09/36/ef0936558e58d6bebf73fee2ae895fe3.gif",width=1000,height=420,fit=cover,gravity=auto,format=auto/https%3A%2F%2Fdev-to-uploads.s3.amazonaws.com%2Fuploads%2Farticles%2Fsv2pxc2ocho6qa4xlq95.gif”>
